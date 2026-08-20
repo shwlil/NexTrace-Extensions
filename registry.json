@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "repository": "NexTrace-Extensions",
+  "extensions": [
+    {
+      "id": "nextrace.root-helper",
+      "name": "Root Helper",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "description": "Analyzes device and boot environment without requiring root.",
+      "type": "tool",
+      "requirements": [],
+      "minNexTrace": 5,
+      "package": "packages/root-helper/root-helper.ntx",
+      "sha256": "7fcd0a559b0b9674209ad1560c772bfc04a951355ff76e8d6e222086e6eaaafa"
+    }
+  ]
+}
